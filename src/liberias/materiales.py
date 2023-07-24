@@ -31,6 +31,3 @@ def calcular_losa(largo, ancho, espesor):
     print ("Tabla de dosificación de materiales: ")
     return tabla, volumen, cemento, cantidad_arena, cantidad_grava
 
-class Punto:
-    def __init__(self):
-        print("Esto es el init")
