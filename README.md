@@ -19,18 +19,22 @@
 ## Organización de carpetas
 > TODO: Actualizar
 
-```
-├── main.ipynb              # Archivo principal
-├── src                     # Archivos fuentes
-│   ├── matematicas.py      # Modulo de ejemplo
-│   ├── ...                 # 
-│   └── ...                 # 
-├── data                    # Datos (opcional)
-│   ├── covid.csv           # Datos de covid
-│   ├── puentes.csv         # Datos de puentes
-│   └──                     # ...
-└── ...
-```
+           
+├── src                          # contenedor del codigo
+│   ├── libreria                 # contenedor de modulos 
+│   ├─────── materiales.py       # modulos 
+│   └── main.ipynb               # Archivo principal 
+├── data                         # Datos 
+│   ├── covid.csv                # Datos de covid
+│     
+└── img                          # imagenes del proyecto
+│   └── imgDosificacion.png      # imagen de Dosificacion
+│   └── imgDosificacion.png      # 
+└── rsc                          # recursos del proyecto 
+│   └──img1.excalidraw           # 
+│   └──img1.excalidraw
+└── 
+
 
 
 
@@ -46,7 +50,7 @@ A continuación se muestra la ventana principal de la aplicación.
 > TODO: Actualizar imagen de prototipo
 
 <div align="center">
-<img src="./img/prototipo.png" >
+<img src="./img/imgDosificacion.png" >
 </div>
 
 
