@@ -20,7 +20,8 @@
 - visual code 
 - librerias (numpy, matplotlib, pretytable)
 - python 
-- comandos para graficar s
+- comandos para graficar
+- obs estudio para grabar el video 
 
   
 ## Flujo de Trabajo

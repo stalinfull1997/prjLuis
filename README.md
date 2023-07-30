@@ -64,8 +64,8 @@ A continuación se muestra la ventana principal de la aplicación.
 
 > TODO: Actualizar captura y enlace  a video en youtube
 <div align="center">
-<a href="http://purl.org/matlabintermedio/proyectofinal/demostracion" target="_blank">
-<img src="./img/demostracion.png" >
+<a href="https://youtu.be/c9mTGseWCJw" target="_blank">
+<img src="./img/imgDosificacion.png" >
 </a>
 <p>Demostración de funcionamiento</p>
 </div>
