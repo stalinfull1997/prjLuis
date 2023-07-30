@@ -2,18 +2,26 @@
 > Proyecto Final - OCT. 2022 - FEB. 2023
 
 ## Objetivos de aprendizaje
-- Aplicar nuevas habilidades a un problema del mundo real
-- Sintetizar las técnicas aprendidas
+- uso de módulos nativos de Python y librerías externas como prettytable, numpy y matplotlib.pyplot.
+- Familiarizarse con la creación y uso de módulos propios
+- Aprender a utilizar funciones para realizar tareas específicas y reutilizar código.
 - Uso de funciones y módulos, Operaciones con arreglos y matrices
 - Gráficas lineales, histogramas o de dispersión 
 
 ## Herramientas
-> TODO: Listar las librerías y herramientas adicionales que fueron utilizadas.
+> 
  
 - git
 - github 
 - python 3 
 - librerías (numpy, pandas, matplotlib, etc.)
+- extenciones para poder editar capturas directo en visual code 
+- chat gpt
+- visual code 
+- librerias (numpy, matplotlib, pretytable)
+- python 
+- comandos para graficar s
+
   
 
 ## Organización de carpetas
@@ -31,8 +39,8 @@
 │   └── imgDosificacion.png      # imagen de Dosificacion
 │   └── imgDosificacion.png      # 
 └── rsc                          # recursos del proyecto 
-│   └──img1.excalidraw           # 
-│   └──img1.excalidraw
+│   └──img1.excalidraw           # RECURSO
+│   └──img1.excalidraw           # RECURSO PARA LA IMAGEN 
 └── 
 
 
